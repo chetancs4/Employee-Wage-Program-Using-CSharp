@@ -45,8 +45,8 @@
             monthly_salary = total_working_hour * WAGE_PER_HOUR;
             Console.WriteLine("Monthly salary of Employee is Rs: " + monthly_salary);
             Console.ReadLine();
-        
 
-    }
+
+        }
     }
 }
