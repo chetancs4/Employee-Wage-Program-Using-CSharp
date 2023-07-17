@@ -50,8 +50,6 @@
             Console.WriteLine("Monthly salary of Employee is Rs." + monthly_salary);
 
             Console.ReadLine();
-
-
         }
     }
 }
